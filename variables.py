@@ -13,5 +13,3 @@ print(f"Student Name is : {student_name}")
 print(f"Student Age is : {student_age}")
 print(f"Student Gpa is : {gpa}")
 print(f"Student is studying Right Now ? : {is_studying}")
-
-
